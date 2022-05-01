@@ -1,0 +1,27 @@
+body {
+  background: #f8e8a6;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+.croissant-photo {
+  display: block;
+  margin: 0 auto;
+  margin-top: 40px;
+  width: 80%;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+.navigation-links {
+  display: flex;
+  justify-content: center;
+  margin: 40px;
+}
+
+.navigation-links a {
+  margin: 20px;
+  color: green;
+}
